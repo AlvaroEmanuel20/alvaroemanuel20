@@ -7,7 +7,7 @@
 
 
 
-- 🔭 Estudante de **Engenharia de Software na Faculdade Pitágoras**
+- 🔭 Desenvolvedor **Front-end React**
 
 - 💬 Meu mantra é **buscar todo dia aprender algo novo, superar desafios e contribuir para evolução humana**
 
