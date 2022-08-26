@@ -9,7 +9,7 @@
 
 - 🔭 Desenvolvedor **Backend Javascript (NodeJS)**
 
-- 💬 Meu mantra é **buscar todo dia aprender algo novo, superar desafios e contribuir para evolução tecnológica**
+- 💬 Meu mantra é **Aprender algo novo todo dia e superar desafios.**
 
 - 📫 Contate-me **alvarodiasribeiro16@gmail.com**
 
