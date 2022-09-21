@@ -7,7 +7,7 @@
 
 
 
-- 🔭 Desenvolvedor **Full-Stack Javascript Jr**
+- 🔭 Desenvolvedor **Front-end Javascript**
 
 - 💬 Meu mantra é **Aprender algo novo todo dia e superar desafios.**
 
