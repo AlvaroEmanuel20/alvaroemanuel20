@@ -7,7 +7,7 @@
 
 
 
-- 🔭 Engenharia de software
+- 🔭 Software Engineer
 
 - 💬 Meu mantra é **Aprender algo novo todo dia e superar desafios.**
 
