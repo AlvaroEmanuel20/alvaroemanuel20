@@ -7,7 +7,7 @@
 
 
 
-- 🔭 Desenvolvedor **Front-end Javascript**
+- 🔭 Engenharia de software
 
 - 💬 Meu mantra é **Aprender algo novo todo dia e superar desafios.**
 
