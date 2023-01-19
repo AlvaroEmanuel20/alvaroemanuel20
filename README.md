@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I am Álvaro Emanuel</h1>
-<h3 align="center">Desenvolvedor apaixonado por tecnologia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaroemanuel20&label=Profile%20views&color=0e75b6&style=flat" alt="alvaroemanuel20" /> </p>
 
