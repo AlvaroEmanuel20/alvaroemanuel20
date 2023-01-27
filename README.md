@@ -2,11 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaroemanuel20&label=Profile%20views&color=0e75b6&style=flat" alt="alvaroemanuel20" /> </p>
 
-- 🔭 Engenheiro de software com foco em desenvolvimento frontend
+- 👨‍💻 Software engineer
 
-- 💬 Meu mantra é **Aprender algo novo todo dia e superar desafios.**
-
-- 📫 Contate-me **alvarodiasribeiro16@gmail.com**
+- 📫 Contact me -> **alvarodiasribeiro16@gmail.com**
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
